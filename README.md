@@ -3,6 +3,8 @@
 Author: Ankush Mallick <br>
 Task No.: 01 <br>
 Task Name: Predict the percentage of an student based on no of study hours with Supervised Machine Learning <br>
+Language - Python <br>
+IDE - Jupyter Notebook <br>
 Dataset: http://bit.ly/w-data <br>
 <br>
 My Info: <br>
